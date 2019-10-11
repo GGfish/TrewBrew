@@ -1,0 +1,14 @@
+Amarillo Gold<br>----------<br>Alpha: 8.5%   Type: Aroma
+Cascade<br>----------<br>Alpha: 5.8%   Type: Bittering
+Centennial<br>----------<br>Alpha: 10.0%   Type: Bittering
+Challenger<br>----------<br>Alpha: 7.5%   Type: Aroma
+Citra<br>----------<br>Alpha: 12.0%   Type: Bittering
+East Kent Goldings<br>----------<br>Alpha: 4.7%   Type: Aroma
+Fuggles<br>----------<br>Alpha: 4.5%   Type: Both
+Fuggles<br>----------<br>Alpha: 4.5%   Type: Both
+Northern Brewer (US)<br>----------<br>Alpha: 9.0%   Type: Both
+Perle<br>----------<br>Alpha: 8.0%   Type: Bittering
+UK Target<br>----------<br>Alpha: 11.0%   Type: Both
+Warrior<br>----------<br>Alpha: 15.0%   Type: Both
+Willamette<br>----------<br>Alpha: 5.5%   Type: Aroma
+pretty<br>----------<br>Alpha: 15.0%   Type: bittering

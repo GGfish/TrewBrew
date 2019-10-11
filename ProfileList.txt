@@ -1,0 +1,5 @@
+American IPA<br>------------<br>    Color: 6L-15L    IBUs: 40-70    ABV: 5.5%-7.5%<br>   Original Gravity: 1.056-1.075<br>    Final Gravity: 1.01-1.018
+American Stout<br>------------<br>    Color: 30L-40L    IBUs: 35-75    ABV: 5.0%-7.0%<br>   Original Gravity: 1.05-1.075<br>    Final Gravity: 1.01-1.022
+Blonde Ale<br>------------<br>    Color: 3L-6L    IBUs: 15-28    ABV: 3.8%-5.5%<br>   Original Gravity: 1.038-1.054<br>    Final Gravity: 1.008-1.013
+California Common Beer<br>------------<br>    Color: 10L-14L    IBUs: 30-45    ABV: 4.5%-5.5%<br>   Original Gravity: 1.048-1.054<br>    Final Gravity: 1.011-1.014
+Irish Red Ale<br>------------<br>    Color: 9L-18L    IBUs: 17-28    ABV: 4.0%-6.0%<br>   Original Gravity: 1.044-1.06<br>    Final Gravity: 1.01-1.014

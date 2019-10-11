@@ -1,0 +1,24 @@
+2-Row(US)<br>----------<br>Color: 1L  <br>37 ppg  <br>Base malt
+6-Row(US)<br>----------<br>Color: 1L  <br>35 ppg  <br>Base malt
+Black Barley<br>----------<br>Color: 530L  <br>27 ppg  <br>Roasted malt
+Cara 10<br>----------<br>Color: 10L  <br>35 ppg  <br>Caramel malt
+Cara 110<br>----------<br>Color: 42L  <br>35 ppg  <br>Caramel malt
+Cara 120<br>----------<br>Color: 120L  <br>33 ppg  <br>Caramel malt
+Cara 15<br>----------<br>Color: 15L  <br>35 ppg  <br>Caramel malt
+Cara 150<br>----------<br>Color: 150L  <br>33 ppg  <br>Caramel malt
+Cara 20<br>----------<br>Color: 20L  <br>34 ppg  <br>Caramel malt
+Cara 30<br>----------<br>Color: 30L  <br>34 ppg  <br>Caramel malt
+Cara 45<br>----------<br>Color: 45L  <br>34 ppg  <br>Caramel malt
+Cara 60<br>----------<br>Color: 60L  <br>35 ppg  <br>Caramel malt
+Cara Amber<br>----------<br>Color: 23L  <br>34 ppg  <br>Caramel malt
+Cara Brown<br>----------<br>Color: 55L  <br>34 ppg  <br>Caramel malt
+CaraRed<br>----------<br>Color: 20L  <br>35 ppg  <br>Caramel malt
+Chocolate Malt<br>----------<br>Color: 425L  <br>34 ppg  <br>Roasted malt
+Coffee Malt<br>----------<br>Color: 150L  <br>36 ppg  <br>Roasted malt
+Light Munich 5<br>----------<br>Color: 5L  <br>33 ppg  <br>Caramel malt
+Maris Otter<br>----------<br>Color: 3L  <br>38 ppg  <br>Base malt
+Pale Malt<br>----------<br>Color: 2L  <br>37 ppg  <br>Base malt
+Pilsen Malt<br>----------<br>Color: 1L  <br>36 ppg  <br>Base malt
+Roasted Barley(BE)<br>----------<br>Color: 575L  <br>30 ppg  <br>Roasted malt
+Roasted Barley(UK)<br>----------<br>Color: 550L  <br>29 ppg  <br>Roasted malt
+Roasted Barley(US)<br>----------<br>Color: 300L  <br>33 ppg  <br>Roasted malt
